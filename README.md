@@ -1,3 +1,22 @@
+# Notice
+This is a fork of the Solarized color scheme for IntelliJ IDEA.
+
+Changes made by See-ming Lee <seeminglee@gmail.com>:
+* Adjusted colors to the html/xml section to be more coherent lexically with everything else. In particular, the tag names and attributes' colors were changed from the blue / cyan combination which is somewhat monotonous to the eye was less pleasing to work with.
+* Filled out additional settings not addressed by the source.
+* Changes made in the dark scheme only.
+* Font set to [Lekton], a beautiful monospaced typeface by [Accademia di Belle Arti di Urbino Fonts] licensed under the SIL Open Font License, version 1.1. You can download it at [Font Squirrel]. You can of course use some other fonts that you preferred.
+
+[Lekton]: http://www.fontsquirrel.com/fonts/lekton
+[Accademia di Belle Arti di Urbino Fonts]: http://www.accademiadiurbino.it
+[Font Squirrel]: http://www.fontsquirrel.com/fonts/lekton
+
+
+---
+
+Included below is the README from the source:
+
+
 Solarized Colorscheme for IntelliJ IDEA
 =======================================
 
