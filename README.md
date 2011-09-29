@@ -1,7 +1,8 @@
-# Notice
-This is a fork of the Solarized color scheme for IntelliJ IDEA.
+This is a fork of the Solarized color scheme developed by Ethan Schoonover <es@ethanschoonover.com> and adapted for for IntelliJ IDEA by:  
+Adam Vandenberg <flangy@gmail.com> and Johan Kaving <johan@kaving.se>.
 
-Changes made by See-ming Lee <seeminglee@gmail.com>:
+Changed from the original:
+
 * Adjusted colors to the html/xml section to be more coherent lexically with everything else. In particular, the tag names and attributes' colors were changed from the blue / cyan combination which is somewhat monotonous to the eye was less pleasing to work with.
 * Filled out additional settings not addressed by the source.
 * Changes made in the dark scheme only.
